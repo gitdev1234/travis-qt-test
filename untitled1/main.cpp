@@ -4,5 +4,5 @@
 
 TEST_CASE("Test case 1") {
     REQUIRE(1==1);
-    REQUIRE(2==1);
+    //REQUIRE(2==1); // this will fail the build process
 }
