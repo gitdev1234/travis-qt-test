@@ -1,11 +1,7 @@
-#include <iostream>
+#define CATCH_CONFIG_MAIN  // This tells Catch to provide a main() - only do this in one cpp file
+#include "catch.hpp"
 
-using namespace std;
 
-
-int main() {
-    cout << "Hello World!" << endl;
-
-    return 1;
+TEST_CASE("Test case 1") {
+    REQUIRE(1==1);
 }
-
