@@ -1,6 +1,6 @@
-# travis-broken-example
+# travis-c++ example
 
-An example that will cause a build failure
+An example c++ project for travis-ci
 
 
-[![Build Status](https://travis-ci.org/gitdev1234/travis-broken-example.svg?branch=master)](https://travis-ci.org/gitdev1234/travis-broken-example)
+[![Build Status](https://travis-ci.org/gitdev1234/travis-qt-test.svg?branch=master)](https://travis-ci.org/gitdev1234/travis-qt-test)
